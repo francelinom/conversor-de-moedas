@@ -1,2 +1,2 @@
 # ConversorDeMoedas
-### Programa para converte moedas
+### Programa para converter moedas
